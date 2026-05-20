@@ -1,4 +1,4 @@
-# PROJECT-3
+# CALCULATORS
 This is my first big project. It consists of many calculating approach.
 ## 1.REVERSE WORKING CALCULATOR
 #### Working
