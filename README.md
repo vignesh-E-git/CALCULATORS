@@ -13,7 +13,9 @@ This is my first big project. It consists of many calculating approach.
 Thats why it is called **reverse woorking calculator.**
 ---
 ## 2.2D VECTOR AND 3D VECTOR CALCULATION
+* you can perform simple vector arithmetics .
 
 ## 3.COMPLEX NUMBER CALCULATOR
+* This is used to evaluated complex expressions
 
 
